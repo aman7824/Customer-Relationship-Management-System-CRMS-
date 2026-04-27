@@ -38,8 +38,8 @@ CRMS/
 
 ## 📸 Screenshots
 
-![Dashboard](images/dashboard.png)
-![Customer Page](images/customer.png)
+Admin side 
+<img src="" width="600"/>
 
 ---
 
