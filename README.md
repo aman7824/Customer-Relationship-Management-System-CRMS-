@@ -39,14 +39,14 @@ CRMS/
 ## 📸 Screenshots
 
 ## Admin Layouts  
-<img src="Screenshot (88).png" width="600"/>
-<img src="Screenshot (89).png" width="600"/>
-<img src="Screenshot (90).png" width="600"/>
-<img src="Screenshot (91).png" width="600"/>
-<img src="Screenshot (92).png" width="600"/>
-<img src="Screenshot (93).png" width="600"/>
-<img src="Screenshot (94).png" width="600"/>
-<img src="Screenshot (95).png" width="600"/>
+<img src="project ss/Screenshot (88).png" width="600"/>
+<img src="project ss/Screenshot (89).png" width="600"/>
+<img src="project ss/Screenshot (90).png" width="600"/>
+<img src="project ss/Screenshot (91).png" width="600"/>
+<img src="project ss/Screenshot (92).png" width="600"/>
+<img src="project ss/Screenshot (93).png" width="600"/>
+<img src="project ss/Screenshot (94).png" width="600"/>
+<img src="project ss/Screenshot (95).png" width="600"/>
 
 ## User Layouts 
 <img src="sc User (1).png" width="600"/>
