@@ -49,10 +49,10 @@ CRMS/
 <img src="project ss/Screenshot (95).png" width="600"/>
 
 ## User Layouts 
-<img src="sc User (1).png" width="600"/>
-<img src="sc User (2).png" width="600"/>
-<img src="sc User (3).png" width="600"/>
-<img src="sc User (4).png" width="600"/>
+<img src="project ss/sc User (1).png" width="600"/>
+<img src="project ss/sc User (2).png" width="600"/>
+<img src="project ss/sc User (3).png" width="600"/>
+<img src="project ss/sc User (4).png" width="600"/>
 
 ---
 
