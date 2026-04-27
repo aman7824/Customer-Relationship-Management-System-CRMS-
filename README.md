@@ -24,3 +24,74 @@ A web-based **Customer Relationship Management System (CRMS)** designed to effic
 ---
 
 ## 📂 Project Structure
+CRMS/
+│── frontend/
+│── backend/
+│── database/
+│── images/
+│── README.md
+
+
+
+
+---
+
+## 📸 Screenshots
+
+![Dashboard](images/dashboard.png)
+![Customer Page](images/customer.png)
+
+---
+
+## ⚙️ Installation & Setup
+
+Follow the steps below to run the project locally:
+
+### 1️⃣ Start Server
+- Open **XAMPP/WAMP Control Panel**
+- Start **Apache** and **MySQL**
+
+---
+
+### 2️⃣ Extract Project Files
+- Extract the downloaded ZIP file
+- Copy the project folder
+
+---
+
+### 3️⃣ Move Project to Server Directory
+- For XAMPP:
+  - Paste the folder inside `htdocs`
+- For WAMP:
+  - Paste the folder inside `www`
+
+---
+
+### 4️⃣ Setup Database
+- Open browser and go to:
+  - http://localhost/phpmyadmin
+- Create a new database:
+  - **crm_db**
+- Import the SQL file:
+  - `crm_db.sql` (located inside the database folder)
+
+---
+
+### 5️⃣ Run the Project
+- Open in browser:
+  - http://localhost/crm  
+  - http://localhost/crm/admin  
+
+---
+
+## 🔐 Admin Login Details
+
+- **Username:** admin  
+- **Password:** admin123  
+
+---
+
+## ⚠️ Note
+- Make sure Apache & MySQL are running before accessing the project  
+- Database must be properly imported, otherwise project will not work  
+
