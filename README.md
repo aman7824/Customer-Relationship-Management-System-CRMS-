@@ -38,7 +38,7 @@ CRMS/
 
 ## 📸 Screenshots
 
-## Admin side 
+## Admin Layouts  
 <img src="Screenshot (88).png" width="600"/>
 <img src="Screenshot (89).png" width="600"/>
 <img src="Screenshot (90).png" width="600"/>
@@ -47,6 +47,12 @@ CRMS/
 <img src="Screenshot (93).png" width="600"/>
 <img src="Screenshot (94).png" width="600"/>
 <img src="Screenshot (95).png" width="600"/>
+
+## User Layouts 
+<img src="Screenshot (88).png" width="600"/>
+<img src="Screenshot (88).png" width="600"/>
+<img src="Screenshot (88).png" width="600"/>
+<img src="Screenshot (88).png" width="600"/>
 
 ---
 
